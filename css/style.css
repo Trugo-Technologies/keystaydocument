@@ -6658,7 +6658,7 @@ button.mfp-close {
   background: #41b782;
 }
 .changelog_content span.new {
-  background: #0ed193;
+  background: rgba(127, 130, 248, 0.8);
 }
 .changelog_content span.update {
   background: #ffa100;
